@@ -4,15 +4,6 @@ Go to configs folder and run:
 chmod +x set_up_env.sh
 ./set_up_env.sh
 
-final_project/
-├── configs/ # Set up the environment
-├── data/ # Dataset directory  
-├── results/ # Training results
-│ ├── figures/ # Generated plots an visualizations
-│ └── logs/ # Training logs
-├── src/ # Source code
-├── \*.py # Training scripts
-└── README.md
 
 # if environment does not auto activate please run
 
